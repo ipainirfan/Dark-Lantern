@@ -1,0 +1,14 @@
+# Ignore rendered video deliverables and video clips (exceed GitHub size limits)
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.wmv
+
+# Temp / build artifacts
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.temp/
+*.tmp

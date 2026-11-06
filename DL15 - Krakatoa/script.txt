@@ -1,0 +1,28 @@
+DL15 KRAKATOA – THE LOUDEST SOUND IN HISTORY
+=============================================
+Length: 8 lines, ~120 words, ~40 s
+
+SCRIPT (voice\lines.json)
+1. [HOOK]    This sound burst sailors' eardrums 64 kilometers away.
+2. [SETUP]   In 1883, the Krakatoa volcano in Indonesia blew itself apart, and over 36,000 people died.
+3. [DISTANCE] 4,800 kilometers away, on Rodrigues Island, police heard it and thought it was distant cannon fire.
+4. [LOUDNESS] 160 kilometers away, a gas gauge recorded a blast equal to 172 decibels. Louder than a jet engine up close.
+5. [WAVE]    Then the pressure wave kept going. Barometers around the world caught it circling the Earth at least 3 times.
+6. [AFTER]   Two thirds of the island vanished, and ash turned sunsets blood red across the world for months.
+7. [TWIST]   In 1927, a new volcano rose in the same spot. Its name means Child of Krakatoa. And it's still erupting.
+8. [OUTRO]   Follow Dark Lantern for more truths hiding in the dark.
+
+SCENE PLAN (6 images, 3 clips)
+ Line 1 -> img1 / clip1   ship at sea, distant blast, shockwave rings      counter: 64 KM
+ Line 2 -> img2 / clip2   volcano island exploding                         counter: 36,000+
+ Line 3 -> img3           paper map, sound rings across Indian Ocean       counter: 4,800 KM
+ Line 4 -> img4           brass gauge needle spiked                        counter: 172 dB  (pill: "JET ENGINE ~150 dB")
+ Line 5 -> img5 / clip3   paper Earth wrapped by pressure rings            counter: 3x
+ Line 6-8 -> img6         blood-red sunset + young volcano (Anak Krakatau) pill: "STILL ERUPTING"
+
+FACT SOURCES
+- Britannica, "Krakatoa": https://www.britannica.com/place/Krakatoa
+- Smithsonian Global Volcanism Program, Krakatau: https://volcano.si.edu/volcano.cfm?vn=262000
+- Nautilus (Aatish Bhatia), "The Sound So Loud That It Circled the Earth Four Times": https://nautil.us/the-sound-so-loud-that-it-circled-the-earth-four-times-235139/
+- Royal Society (Symons, 1888), "The Eruption of Krakatoa and Subsequent Phenomena" (Norham Castle eardrums at ~64 km, Rodrigues report, barometer records)
+Notes: 172 dB = Batavia gasworks gauge spike ~160 km away. Rodrigues ~4,800 km. Anak Krakatau emerged 1927, still active (2018 flank collapse).

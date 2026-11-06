@@ -1,0 +1,40 @@
+DL15 KRAKATOA – GOOGLE FLOW PROMPTS (paste manually)
+=====================================================
+1. In Google Flow, create a NEW project named: DL15 Krakatoa
+2. IMAGES: Mode Image | Model Nano Banana Pro | 9:16 | Outputs 1
+3. VIDEOS: Mode Frames to video | Model Veo 3.1 - Fast | 9:16 | 8s | Outputs 1 | START FRAME = image named | no end frame
+4. Save downloads (720p+, not upscaled) into:
+   C:\Users\blazy\OneDrive\Pictures\AI Content\DL15 - Krakatoa\flow
+   named img1..img6 and clip1..clip3
+Cost: 6 images = 0 credits, 3 Veo Fast clips = 60 credits.
+
+=== IMAGES (Nano Banana Pro, 9:16) ===
+
+img1 (HOOK – SHIP AND BLAST):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: a small 1880s paper steamship with tall funnel and sails on a dark rolling teal sea in the foreground. Far away on the horizon a volcanic island explodes in a giant glowing rust and warm yellow blast, and huge concentric cream paper shockwave rings ripple outward through the dark navy sky toward the ship. Empty deck, no people. Dramatic, eerie mood. No text, no letters, no logos.
+
+img2 (THE ERUPTION):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: a tropical volcanic island splitting apart in a massive eruption, a towering column of layered grey and cream paper ash clouds rising to the top of the frame, glowing rust and yellow lava fragments flying, small paper palm trees bending on the shore, dark teal sea churning. No people. No text, no letters, no logos.
+
+img3 (SOUND MAP):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: a vintage paper map of the Indian Ocean seen from above, cream paper landmasses on a deep teal ocean, a tiny glowing rust volcano between Sumatra and Java, with large concentric cream paper sound rings spreading across the whole ocean, reaching a tiny island far to the west near Africa and the coast of Australia. No text, no letters, no labels, no logos.
+
+img4 (PRESSURE GAUGE):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: close-up of a Victorian brass pressure gauge on a dark wooden desk at night, its needle slammed hard past the end of the dial into the red zone, next to it a cream paper chart roll with one sharp tall spike drawn in rust ink, lit by a warm yellow paper oil lamp. Tense mood. No people. No text, no numbers, no letters, no logos.
+
+img5 (WAVE AROUND THE EARTH):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: the paper planet Earth floating in a deep navy starry space, teal oceans and cream continents, with several glowing warm-yellow paper rings wrapping around the globe from one point in Southeast Asia, like ripples circling the whole planet. Cosmic, mysterious. No text, no letters, no logos.
+
+img6 (RED SUNSET + CHILD VOLCANO):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: an eerie blood-red and rust sunset sky over a calm dark teal sea, the jagged broken remains of an old island cliff on one side, and in the middle a small young volcano cone rising out of the water with a thin plume of grey paper smoke and a faint glowing rust crater. Quiet, ominous mood. No people. No text, no letters, no logos.
+
+=== VIDEO CLIPS (Veo 3.1 Fast, Frames to video, 9:16, 8s) ===
+
+clip1 — START FRAME: img1
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. The distant volcano blast flashes and the cream paper shockwave rings expand slowly across the sky toward the ship, the paper sea rolls, the ship rocks gently and its sails flutter. Slow camera push-in. No people, no speech, no text on screen.
+
+clip2 — START FRAME: img2
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. The paper ash column billows and climbs higher, glowing rust lava fragments arc through the air, palm trees sway, the teal sea churns around the island. Slow camera tilt up following the ash. No people, no speech, no text on screen.
+
+clip3 — START FRAME: img5
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. The paper Earth rotates slowly while the glowing warm-yellow rings travel outward from Southeast Asia and wrap around the whole planet again and again, stars twinkle softly. Slow camera orbit. No speech, no text on screen.

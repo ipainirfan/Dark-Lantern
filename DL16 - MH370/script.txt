@@ -1,0 +1,29 @@
+DL16 – THE GHOST FLIGHT (MH370)
+=============================================
+Length: 8 lines, ~125 words, ~45 s
+
+SCRIPT (voice\lines.json)
+1. [HOOK]     A passenger jet with 239 people vanished into thin air—and flew in total silence for six hours.
+2. [TAKEOFF]  In 2014, Malaysia Airlines flight 370 took off from Kuala Lumpur into the midnight sky.
+3. [SILENCE]  At the border of airspace, its transponder was manually switched off, cutting every radar signal.
+4. [U-TURN]   Military radar tracked it making a sharp, deliberate U-turn back across the peninsula, with zero distress calls.
+5. [PINGS]    Then, an overhead satellite picked up seven silent electronic pings, leading deep into the freezing southern Indian Ocean.
+6. [SEARCH]   Ships searched over 120,000 square kilometers of deep abyss in the most expensive hunt in history.
+7. [DEBRIS]   Years later, scattered wings washed ashore thousands of miles away in Africa, but the plane was never found.
+8. [OUTRO]    Follow Dark Lantern for more truths hiding in the dark.
+
+SCENE PLAN (6 images, 3 clips)
+ Line 1 -> img1 / clip1   Boeing 777 flying at night, faint signal fading    counter: 239 PEOPLE
+ Line 2 -> img2           Kuala Lumpur midnight takeoff, runway lights       pill: "00:42 AM · KLIA"
+ Line 3 -> img3           Radar cockpit panel, transponder knob turned off   pill: "TRANSPONDER: OFF"
+ Line 4 -> img4           Military radar map showing sharp U-turn back       counter: 0 DISTRESS CALLS
+ Line 5 -> img5 / clip2   Satellite over Earth beaming 7 arcs to Indian Ocean counter: 7 PINGS (pill: "7TH ARC")
+ Line 6 -> img5           Search vessels with sonar beam cutting deep trench counter: 120,000 KM²
+ Line 7 -> img6 / clip3   Barnacle-covered wing section on remote beach      pill: "NEVER FOUND"
+ Line 8 -> img1           Dark Lantern outro
+
+FACT SOURCES
+- Australian Transport Safety Bureau (ATSB) Final Report: "The Operational Search for MH370" (120,000 sq km searched)
+- Ministry of Transport Malaysia: Safety Investigation Report MH370 (9M-MRO)
+- Inmarsat / Royal Institute of Navigation: "The Search for MH370" (BTO and BFO satellite handshake analysis)
+- French BEA / DGA Aeronautical Systems: Official Examination Report of the Flaperon on Réunion Island

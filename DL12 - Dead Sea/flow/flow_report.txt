@@ -1,0 +1,16 @@
+DL12 Dead Sea - Google Flow Asset Report
+========================================
+
+Saved files:
+- img1.jpg (720,929 bytes)
+- img2.jpg (868,874 bytes)
+- img3.jpg (651,969 bytes)
+- img4.jpg (940,709 bytes)
+- img5.jpg (747,539 bytes)
+- img6.jpg (865,694 bytes)
+- clip1.mp4 (3,375,968 bytes)
+- clip2.mp4 (2,909,479 bytes)
+- clip3.mp4 (6,111,132 bytes)
+
+Failed / skipped files:
+- None (all 6 images and 3 video clips succeeded)

@@ -1,0 +1,37 @@
+DARK LANTERN #13 – WHY DON'T BIRDS GET ELECTROCUTED ON POWER LINES?   (TEMPLATE v3 TEST: full-screen, animated diagrams synced to the voice, MinuteEarth/InfographicsShow style)
+USE FILE: "DL13 Birds on Wires v3 thumb - final.mp4" (37s, voice Landon, sketch style, no music). Post Sat 7 Nov 8:30pm Malaysia.
+
+=== YOUTUBE ===
+Title:
+Why Don't Birds Get Shocked on Power Lines? ⚡ #shorts
+
+Description:
+That wire could kill you in a second – so why is the bird totally fine?
+⚡ Electricity only flows from high to low. A bird on one wire is all at the same voltage, so nothing flows through it.
+🦅 The dark part: if a big bird touches two wires at once, it becomes the path – electrocution kills eagles every year.
+🚫 Same rule for you: never touch a fallen power line. You'd become the path to the ground.
+
+Follow Dark Lantern for more truths hiding in the dark. 🏮
+#electricity #powerlines #birds #science #physics #didyouknow #darkscience #shorts
+
+Tags:
+why don't birds get electrocuted, birds on power lines, electricity explained, voltage, power line safety, eagle electrocution, downed power line, physics facts, science facts, dark science, dark lantern
+
+Settings: Made for kids NO · Altered/synthetic NO (illustration) · Category Education
+Pinned comment: "Would you have guessed the bird is safe only because it touches ONE wire? ⚡🏮"
+
+WHAT WE ARE TESTING
+This is the first Template v3 video. Compare after 1h and 24h against DL08–DL12 (old template + new hook):
+- Stayed to watch % (DL09 old template, no hook: 8.8%)
+- Average % watched
+If v3 clearly wins, all future videos switch to v3.
+
+SOURCES
+- Birds on a single wire: no potential difference across the body, so negligible current flows (standard physics; e.g. BBC Science Focus, "Why don't birds get electrocuted while perching on power lines?").
+- Electrocution happens when a bird touches two wires, or a wire and a grounded part, at once; up to 11.6 million birds/year may be killed by electrocution on US power lines (Loss et al. 2014, PLOS ONE, PMC4081594); 333 of 417 electrocuted raptors examined by the US Fish & Wildlife Service forensics lab (2000–2015) were bald or golden eagles – National Wildlife Federation, "Saving eagles from the lethal hazards of power line electrocution" (2021).
+- Downed power lines: stay away and call the utility/emergency services; touching a line while grounded makes your body the path to ground (standard utility safety guidance).
+
+THUMBNAIL
+The last half-second of the video is the thumbnail ("Why don't birds get FRIED?! / 2 wires = ZAP").
+YouTube app: after uploading → Edit → Thumbnail → slide the frame picker to the very END → Save.
+(Custom image upload "DL13 thumbnail.png" works only on desktop for YouTube Partner channels – keep it for later.)

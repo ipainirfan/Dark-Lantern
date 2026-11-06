@@ -1,0 +1,72 @@
+DL12 DEAD SEA – INSTRUCTIONS FOR GOOGLE ANTIGRAVITY
+====================================================
+How to use: open Antigravity on your PC, start a new agent task, and paste EVERYTHING
+between the two lines below as one message. Then let it run.
+
+----------------------------- COPY FROM HERE -----------------------------
+You are working in my Google Flow account (labs.google/fx/tools/flow) in Chrome. I am already signed in.
+
+GOAL: make 6 images and 3 video clips for a YouTube Short and save them on my PC.
+
+1. Open Google Flow and create a NEW project named exactly: DL12 Dead Sea
+2. Make the 6 IMAGES below, one at a time:
+   - Mode: Image (text to image)
+   - Model: Nano Banana Pro
+   - Aspect ratio: 9:16 (portrait)
+   - Outputs per prompt: 1
+   - Paste the prompt exactly as written. If an image fails or is blocked, try it once more, then skip it and note it in the report.
+3. Make the 3 VIDEO CLIPS below:
+   - Mode: Video, "Frames to video"
+   - Model: Veo 3.1 - Fast
+   - Aspect ratio: 9:16, length 8 seconds, outputs per prompt: 1
+   - START FRAME = the image named in the clip (pick it from this project's images). No end frame.
+   - Paste the prompt exactly. If a clip is blocked, try once more, then skip it and note it.
+4. Download every result at full quality (images as PNG/JPG, videos as MP4, 720p or higher, NOT upscaled) into this folder:
+   C:\Users\blazy\OneDrive\Pictures\AI Content\DL12 - Dead Sea\flow
+   Name them exactly: img1, img2, img3, img4, img5, img6, clip1, clip2, clip3 (keep the file extension).
+5. When finished, write a file "flow_report.txt" in that same folder listing which files were saved and anything that failed.
+6. THEN BUILD THE VIDEO: read and follow
+   C:\Users\blazy\OneDrive\Pictures\AI Content\_Tools\dl_kit\AGY BUILD GUIDE.md
+   - Do the one-time setup (section 0) if Python/Node/HyperFrames are not ready yet.
+   - The voice is already done (voice\ folder) – skip section 2.
+   - Run section 3 for DL12 (builds\dl12\build.py is ready, no editing needed), then the checks in section 4.
+   - Result: "DL12 Dead Sea - final.mp4" and "DL12 thumbnail.jpg" in the DL12 - Dead Sea folder. Tell me in 2 lines when done.
+Do NOT post, share or publish anything. Do not change any account settings.
+
+STYLE (already included in each prompt, do not change it):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow.
+
+=== IMAGES (Nano Banana Pro, 9:16) ===
+
+img1 (HOOK):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: a calm, glassy turquoise sea seen from above, crusted with white salt rings and salt islands, under a dark navy evening sky. In the centre of the water floats one small empty red-and-cream paper inflatable swim ring, casting a long shadow. Desert cliffs in rust paper on both sides. Eerie, quiet, mysterious mood. No people. No text, no letters, no logos.
+
+img2 (SALT / DENSE WATER):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: side cut-away view of the sea like a paper aquarium cross-section. Above the waterline a cheerful adult man in a teal swimsuit floats high on his back reading a cream paper newspaper, calm and relaxed. Below the waterline the teal water is packed with big white cube-shaped salt crystals and mineral grains. Sunny daytime, warm yellow paper sun. No text, no letters, no logos.
+
+img3 (THE TRAP):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: close side view of the floating man's paper figure rolled onto his stomach, his legs and feet bobbing high on the surface of thick turquoise water like corks, curved rust paper arrows showing his body tipping forward. Moody darker teal light. Calm, not scary. No text, no letters, no logos.
+
+img4 (SALT IN THE BODY):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: a simple stylised paper anatomy diagram of a human torso silhouette in cream paper on a deep navy background, showing paper lungs and a heart, with small glowing warm-yellow and rust mineral grains drifting into the lungs like sparkling dust. Educational, clean, not gory. No text, no letters, no logos.
+
+img5 (HOSPITAL / DOCTORS):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: a calm hospital desk at night lit by a warm yellow paper lamp, two glowing chest X-ray films clipped to a light board, a clipboard, a stethoscope and a stack of cream paper patient files. No people. Quiet, serious mood. No text, no letters, no logos.
+
+img6 (SAFE WAY / PAYOFF):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, cream, rust and warm yellow. Vertical scene: golden sunset over the Dead Sea, a happy adult woman floats safely on her back with her face up and dry, arms relaxed, white salt crust along the shore, small cream paper sun loungers and an umbrella on the beach, warm yellow and rust sky. Peaceful. No text, no letters, no logos.
+
+=== VIDEO CLIPS (Veo 3.1 Fast, Frames to video, 9:16, 8s) ===
+
+clip1 — START FRAME: img1
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. The paper swim ring drifts slowly in a circle on the glassy turquoise water, tiny paper ripples spread out, white salt rings shimmer, evening clouds slide slowly across the navy sky. Slow camera push-in from above. No people, no speech, no text on screen.
+
+clip2 — START FRAME: img2
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. The relaxed man bobs gently on his back like a cork and turns a page of his paper newspaper; below the waterline the white salt crystals slowly swirl and tumble. Slow camera push-in. Calm and cheerful. No speech, no text on screen.
+
+clip3 — START FRAME: img4
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. The glowing warm-yellow and rust mineral grains drift slowly into the paper lungs, and the lungs gently glow rust red; soft paper dust floats in the navy background. Slow camera push-in. Educational, not gory. No speech, no text on screen.
+----------------------------- COPY TO HERE -----------------------------
+
+Expected Flow cost: 6 images = 0 credits, 3 Veo Fast clips = 60 credits.
+When Antigravity is done, come back to the DL12 chat with Claude and say: "Flow done".

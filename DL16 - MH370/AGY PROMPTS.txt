@@ -1,0 +1,40 @@
+DL16 MH370 – GOOGLE FLOW PROMPTS (paste manually)
+===================================================
+1. In Google Flow, create a NEW project named: DL16 MH370
+2. IMAGES: Mode Image | Model Nano Banana Pro | 9:16 | Outputs 1
+3. VIDEOS: Mode Frames to video | Model Veo 3.1 - Fast | 9:16 | 8s | Outputs 1 | START FRAME = image named | no end frame
+4. Save downloads (720p+, not upscaled) into:
+   C:\Users\blazy\OneDrive\Pictures\AI Content\Dark Lantern\DL16 - MH370\flow
+   named img1..img6 and clip1..clip3
+Cost: 6 images = 0 credits, 3 Veo Fast clips = 60 credits.
+
+=== IMAGES (Nano Banana Pro, 9:16) ===
+
+img1 (HOOK – GHOST JET IN NIGHT SKY):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep midnight navy, teal, cream, rust, and warm amber. Vertical scene: a large twin-engine commercial airliner made of cream and navy paper flying alone through a dark starry sky at night, surrounded by torn paper clouds, glowing warm-amber cockpit windows, and faint glowing cream soundwave rings fading away behind it into total blackness. Quiet, eerie, mysterious atmosphere. No people visible. No text, no letters, no airline logos.
+
+img2 (MIDNIGHT DEPARTURE):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep midnight navy, teal, cream, rust, and warm amber. Vertical scene: looking up from a runway as a large cream paper passenger jet climbs into the dark night sky, below it a glowing strip of warm-amber runway lights and distant miniature paper city skyline silhouette, layered dark paper clouds above. Dramatic angle, peaceful yet ominous. No people visible. No text, no numbers, no letters, no logos.
+
+img3 (TRANSPONDER SHUTDOWN / COCKPIT PANEL):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep midnight navy, teal, cream, rust, and warm amber. Vertical scene: close-up of a vintage aircraft avionics control console and instrument switches made of textured dark paper, a prominent rotary switch turned to off, lit by the eerie warm amber and crimson glow of small indicator lamps, dark shadowy background. Tense, suspenseful mood. No people. No text, no letters, no numbers, no logos.
+
+img4 (RADAR MAP U-TURN):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep midnight navy, teal, cream, rust, and warm amber. Vertical scene: a stylized paper top-down map of the Malay Peninsula between two dark teal oceans, showing a glowing rust-red dashed paper flight path traveling northeast, then making a sharp sudden U-turn loop back toward the southwest across the land into the dark sea. Eerie surveillance look. No people. No text, no letters, no labels, no logos.
+
+img5 (SATELLITE & THE 7TH ARC / OCEAN ABYSS):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep midnight navy, teal, cream, rust, and warm amber. Vertical scene: looking down from space at the curvature of the dark paper Earth, deep teal ocean waters, a small paper communications satellite floating in the starry upper corner casting thin concentric glowing warm-amber arc rings that spread across thousands of miles of empty, dark southern ocean. Vast, lonely, cosmic atmosphere. No text, no letters, no logos.
+
+img6 (DEBRIS ON REMOTE BEACH):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep midnight navy, teal, cream, rust, and warm amber. Vertical scene: a lone broken piece of a cream paper aircraft wing section resting on a jagged black volcanic rock beach at dawn, covered in tiny paper barnacles, foam-tipped dark teal ocean waves breaking around it, blood-red and amber sunrise clouds on the horizon. Somber, haunting, quiet mood. No people. No text, no letters, no logos.
+
+=== VIDEO CLIPS (Veo 3.1 Fast, Frames to video, 9:16, 8s) ===
+
+clip1 — START FRAME: img1
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. The paper airplane glides steadily through the starry dark sky, paper clouds drift slowly beneath it, the warm amber glow from the windows pulses softly, and the faint rings behind it fade away into the dark. Slow cinematic push-in. No speech, no text on screen.
+
+clip2 — START FRAME: img5
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. The communications satellite floats in the starry sky while the glowing warm-amber arc rings pulse and expand across the dark paper ocean below, subtle camera drift. Lonely and mysterious atmosphere. No speech, no text on screen.
+
+clip3 — START FRAME: img6
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. The dark ocean waves roll gently against the volcanic beach, water washes over the base of the paper wing fragment, sea foam bubbles softly, and the clouds on the horizon drift. Slow, somber camera pull-back. No people, no speech, no text on screen.

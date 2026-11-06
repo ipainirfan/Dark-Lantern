@@ -1,0 +1,34 @@
+DL17 – THE INVISIBLE LINE (The Wallace Line)
+=============================================
+Topic: The Wallace Line / Lombok Strait (Indonesia)
+Tone: GeoGlobeTales style — Fast, curious, pointing at the map anomaly first, backed by real Ice Age geology & evolutionary biology.
+Length: 10 lines, ~155 words, ~45–50 s target (brisk 3.1 w/s pacing).
+
+SCRIPT (voice\lines.json):
+1. [HOOK - MAP ANOMALY] Look at this narrow twenty-mile gap of water between Bali and Lombok in Indonesia.
+2. [SIDE A - ASIA]       On this side, you have Asian tigers, monkeys, rhinos, and elephants roaming the jungle.
+3. [THE PARADOX]        Cross just twenty miles to the other side, and every single Asian mammal completely vanishes.
+4. [SIDE B - AUSTRALIA]  Instead, you find tree kangaroos, marsupials, and cockatoos native to Australia.
+5. [THE CRAZY DETAIL]   Even birds that could easily fly across refuse to cross this invisible line.
+6. [ICE AGE SCIENCE]    Why? During the Ice Age, sea levels dropped over three hundred feet, connecting Asia to Bali.
+7. [WALKING TIGERS]     Tigers could literally walk across dry land—until they hit this exact gap.
+8. [THE TRENCH]         Because right here lies an ancient oceanic trench over one thousand feet deep that never dried up.
+9. [50M YEARS]          It kept Asia and Australia biologically isolated for fifty million years, and the line is still unbroken today.
+10. [OUTRO]             Follow Dark Lantern for more truths hiding in the dark.
+
+SCENE PLAN (6 images, 3 clips):
+ Line 1 -> img1 / clip1  Map of Indonesia zooming into Lombok Strait (20 miles)   Pill: "20 MILES WIDE"
+ Line 2 -> img2          Lush Asian rainforest: Tiger and monkey silhouettes     Pills: "ASIAN TIGER" / "BALI"
+ Line 3 -> img1          Red dashed Wallace Line splitting the two islands        Counter: 0 ASIAN MAMMALS
+ Line 4 -> img3          Australasian forest: Tree kangaroo & cockatoo           Pills: "TREE KANGAROO" / "LOMBOK"
+ Line 5 -> img4          Birds flying up to an invisible glowing boundary & turning back  Pill: "REFUSE TO CROSS"
+ Line 6-7 -> img5 / clip2 Ice Age globe: Sunda Shelf dried out, land bridge       Counter: -300 FT (SEA LEVEL)
+ Line 8 -> img6 / clip3  Underwater cross-section: Deep blue ocean abyss / trench Counter: 1,000+ FT TRENCH
+ Line 9 -> img1          Wide map showing the full Wallace Line across Indonesia  Pill: "50 MILLION YEARS"
+ Line 10 -> img1         Dark Lantern outro
+
+FACT SOURCES:
+- Alfred Russel Wallace (1869), "The Malay Archipelago" (Original discovery of the Wallace Line)
+- Mayr, E. (1944), "Wallace's Line in the Light of Recent Zoogeographic Studies", The Quarterly Review of Biology
+- Voris, H. K. (2000), "Maps of Pleistocene sea levels in Southeast Asia: shorelines, river systems and time durations", Journal of Biogeography (Sunda Shelf -120m exposure)
+- Hall, R. (2002), "Cenozoic geological and plate tectonic evolution of SE Asia and the SW Pacific", Journal of Asian Earth Sciences (Lombok Strait deep bathymetric trench)

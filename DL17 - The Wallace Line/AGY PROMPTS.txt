@@ -1,0 +1,40 @@
+DL17 THE WALLACE LINE – GOOGLE FLOW PROMPTS (paste manually)
+=============================================================
+1. In Google Flow, create a NEW project named: DL17 Wallace Line
+2. IMAGES: Mode Image | Model Nano Banana Pro | 9:16 | Outputs 1
+3. VIDEOS: Mode Frames to video | Model Veo 3.1 - Fast | 9:16 | 8s | Outputs 1 | START FRAME = image named | no end frame
+4. Save downloads into:
+   C:\Users\blazy\OneDrive\Pictures\AI Content\Dark Lantern\DL17 - The Wallace Line\flow
+   named img1..img6 and clip1..clip3
+
+=== IMAGES (Nano Banana Pro, 9:16) ===
+
+img1 (MAP ANOMALY - THE 20-MILE GAP / WALLACE LINE):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep midnight navy, ocean teal, forest green, warm amber, and crimson red. Vertical scene: top-down stylized paper map of the Indonesian archipelago focusing on Bali and Lombok separated by a narrow teal water channel, with a prominent glowing crimson-red dashed cut-paper line running vertically between the two islands. Intricate topographical paper relief. Dramatic lighting. No people. No text, no letters, no country labels.
+
+img2 (SIDE A - ASIAN FAUNA: TIGER & JUNGLE):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep emerald green, midnight teal, warm amber, and cream. Vertical scene: dense tropical Asian rainforest jungle made of layered cut-paper leaves and hanging vines; in the clearing stands a majestic Asian tiger crafted from warm amber and black textured paper, with a small paper monkey sitting on an overhead branch. Atmospheric misty jungle lighting. No people. No text, no letters.
+
+img3 (SIDE B - AUSTRALASIAN FAUNA: TREE KANGAROO & COCKATOO):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep forest green, terracotta, warm cream, and soft gold. Vertical scene: exotic Australasian eucalyptus and tropical canopy crafted from textured paper; perched on a thick paper tree branch is a distinct tree kangaroo made of rust-brown and cream paper, next to a white paper cockatoo with a vivid yellow crest. Rich, curious, mysterious wildlife scene. No people. No text, no letters.
+
+img4 (THE INVISIBLE BARRIER - BIRDS TURNING BACK):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep navy, teal, warm amber, and glowing crimson. Vertical scene: looking across the open ocean strait between two distant paper coastlines; in mid-air above the water, several small paper birds fly toward the center but bank and turn away from a subtle glowing vertical paper ripple boundary slicing down the center of the sky. Eerie and mysterious. No text, no letters.
+
+img5 (ICE AGE DRY LAND - SUNDA SHELF EXPOSED):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep ocean navy, arid ochre, light sandy cream, and icy teal. Vertical scene: stylized cut-paper globe map showing Southeast Asia during the Ice Age; the shallow sea between mainland Asia and Bali has dried up into a wide exposed sandy land bridge, but suddenly drops off into a dark deep water gap right at Lombok. Dramatic continental shelf edge. No people. No text, no letters.
+
+img6 (THE UNDERWATER TRENCH CROSS-SECTION):
+Layered cut-paper craft diorama illustration: stacked paper layers with soft drop shadows between them, visible paper fibres and torn edges, handmade papercraft look, palette of deep midnight blue, dark teal, and glowing amber accents. Vertical cross-section scene: a dramatic underwater bathymetric ocean trench plunging deep into an abyss between two steep underwater paper cliffs, sunbeams from the ocean surface above piercing down into the immense dark depth. Moody, vast, cosmic depth. No people. No text, no letters.
+
+
+=== VIDEO CLIPS (Veo 3.1 Fast, Frames to video, 9:16, 8s) ===
+
+clip1 — START FRAME: img1
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. Slow cinematic push-in toward the narrow ocean gap between the two paper islands, subtle rippling ocean paper waves, paper clouds drift overhead, the crimson dashed line pulses with a warm glow. No speech, no text.
+
+clip2 — START FRAME: img5
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. Slow cinematic zoom-in onto the exposed dry land shelf connecting the islands, subtle shifting shadows of clouds passing over the paper continent, while the deep ocean trench remains dark and unbridged. No speech, no text.
+
+clip3 — START FRAME: img6
+Keep the exact same layered cut-paper diorama style, like a stop-motion papercraft animation. Slow downward camera descent into the deep papercraft ocean trench, tiny dust and light particles drifting in the water rays, gentle ocean currents moving along the steep paper canyon walls. Somber, mysterious, awe-inspiring. No speech, no text.
